@@ -1,2 +1,5 @@
 
 .DS_Store
+/.idea
+/js/.DS_Store
+/wasmJs/.DS_Store
